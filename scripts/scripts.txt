@@ -1,0 +1,10 @@
+All_counties_ERO_level: risk category for each county seasonally
+
+append_lat_lon: added latitude and longitude to netcdf
+
+Damaged_counties_ERO_fast: ???????
+
+drop_zeros_StormData: cleans up storm data (gets rid of counties w zero damages, changes damage amounts to numbers, etc)
+
+missed_ufvs: ???? important shit but i need to go through and look
+
